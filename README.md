@@ -1,5 +1,1 @@
-# Hi there 👋
-
-- 🔭 I’m currently working on web front-end
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i dont know what im doing here
+i dont know what im doing here, i hate everything about me and i have no hope for my future 
