@@ -5,8 +5,8 @@
 
 ![YuriLemosFernandes's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriLemosFernandes&show_icons=true&theme=dark&)
 
-<div style="display: inline_block" align="center"> <br>
-  <img align="center" height="60" width="70" src="https://icons8.com.br/icon/42769/logotipo-javascript" />
+<div style="display: inline_block"> <br>
+  <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />  
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
