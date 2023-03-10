@@ -5,7 +5,7 @@
 
 ![YuriLemosFernandes's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriLemosFernandes&show_icons=true&theme=dark&) 
 
- <table>
+ <table align="right">
  <thread>
  <th> topoa </th>
  <th>topob</th>
