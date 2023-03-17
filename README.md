@@ -5,7 +5,7 @@
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/127331396/224412166-04f90c1b-397e-4f80-8a23-6875eb4b7f7a.jpg">
 </picture>
 
-![YuriLemosFernandes's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriLemosFernandes&show_icons=true&theme=graywhite)
+![YuriLemosFernandes's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriLemosFernandes&show_icons=true&theme=graywhite)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div style="display: inline_block"> <br>
