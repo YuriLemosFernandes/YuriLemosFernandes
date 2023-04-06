@@ -7,7 +7,7 @@
 
 ![YuriLemosFernandes's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriLemosFernandes&show_icons=true&theme=graywhite)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLemosFernandesa&layout=compact)](https://github.com/YuriLemosFernandes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLemosFernandes&layout=compact)](https://github.com/YuriLemosFernandes/github-readme-stats)
 
 
 <div style="display: inline_block"> <br>
