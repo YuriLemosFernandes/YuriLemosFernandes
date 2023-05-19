@@ -6,7 +6,7 @@
 </picture>
 
 
-![Yuri Lemos Fernandes's GitHub stats](https://github-readme-stats.vercel.app/api?usernameYuriLemosFernandes&show_icons=true&theme=transparent&count_private=true)
+![Yuri Lemos Fernandes's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriLemosFernandes&show_icons=true&theme=transparent&count_private=true)
 
 <div style="display: inline_block"> <br>
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
