@@ -6,8 +6,8 @@
 </picture>
 
 
-![Yuri Lemos Fernandes's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriLemosFernandes&show_icons=true&theme=transparent&count_private=true)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLemosFernandes&layout=compact&langs-count=168&theme=transparent"/>
+![Yuri Lemos Fernandes's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriLemosFernandes&show_icons=true&theme=graywhite&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLemosFernandes&layout=compact&langs-count=168&theme=graywhite"/>
 
 <div style="display: inline_block"> <br>
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
